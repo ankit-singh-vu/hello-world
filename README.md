@@ -1,9 +1,16 @@
-# hello-world
-first project
 
-I am ankit
+project name- hello-world
 
-I am from India
 
+
+This is my first project
+
+
+i am Ankit Singh
+
+i am a coder 
+
+
+i work with Node.js
 
 
